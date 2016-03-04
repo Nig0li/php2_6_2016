@@ -24,11 +24,14 @@ twig/twig |
 file - App\Controllers\News | 
 line - 15 | 
 line - 25 | 
+
 file - App\Components\View | 
 line - 40 | 
 line - 53 | 
+
 file - App\Templates\index | 
 line - 26-47 | 
+
 file - App\Templates\article | 
 line - 26-34 | 
 
