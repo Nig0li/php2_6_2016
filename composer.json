@@ -1,0 +1,13 @@
+{
+  "repositories": [
+    {
+      "type": "git",
+      "url": "https://github.com/Nig0li/MultiException"
+    }
+  ],
+  "require": {
+    "psr/log": "dev-master",
+    "twig/twig": "dev-master",
+    "Nig0li/MultiException": "dev-master"
+  }
+}

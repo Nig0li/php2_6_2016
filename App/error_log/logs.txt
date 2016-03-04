@@ -1,0 +1,12 @@
+ | error || E404 |
+ {date}: 2016-03-03 21:11:18
+ {file}: Z:\domains\git\App\Controllers\News.php
+ {line}: 27
+ {message}: ошибка 404
+ {count}: 2
+ | critical || DbError |
+ {date}: 2016-03-03 21:13:30
+ {file}: Z:\domains\git\App\Components\Db.php
+ {line}: 18
+ {message}: ошибка подключения к базе данных
+ {count}: 5
