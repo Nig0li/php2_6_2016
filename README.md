@@ -8,6 +8,7 @@ line - 27
 \App\error_log\logs.txt 
 + выдача пользователю страницы с сообщением об ошибке 
 \App\Controllers\Error 
+
 file - index | 
 line - 16 | 
 line - 18 
@@ -25,13 +26,16 @@ file - App\Controllers\News |
 line - 15 | 
 line - 25 | 
 
+twig/twig | 
 file - App\Components\View | 
 line - 40 | 
 line - 53 | 
 
+twig/twig | 
 file - App\Templates\index | 
 line - 26-47 | 
 
+twig/twig | 
 file - App\Templates\article | 
 line - 26-34 | 
 
