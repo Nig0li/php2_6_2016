@@ -4,11 +4,11 @@ throw new E404 |
 file - App\Controllers\News | 
 line - 27 
 
-Запись ошибок в текстовый лог 
+Запись ошибок в текстовый лог |
 \App\error_log\logs.txt 
-и выдача пользователю страницы с сообщением об ошибке 
-\App\Controllers\Error 
 
+Выдача пользователю страницы с сообщением об ошибке | 
+\App\Controllers\Error | 
 file - index | 
 line - 16 | 
 line - 18 
